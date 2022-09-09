@@ -33,6 +33,7 @@ Follow the steps below for database configuration:
 4. Go to src/main/resources/applications.properties
 
 5. Set to your username and password 
+
 ![image](https://user-images.githubusercontent.com/113168592/189301084-af44f7c9-7f13-415f-88da-d2f831c5de89.png)
 
 6. Start running the project as the project will automatically create necessary tables in the database "school".
