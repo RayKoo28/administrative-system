@@ -8,7 +8,7 @@ The Database use in this porject is PostgreSQL.
 
 This project is publicly hosted on Heroku. The link below is the plubic API Endpoint for this project.
 
-https://school-administrative.herokuapp.com/api/
+https://school-administrative.herokuapp.com/api/allstudents
 
 Kindly import the postman collection for public API endpoint through the link below:
 
