@@ -4,6 +4,16 @@ This project is an API built with Java and Spring Boot.
 
 The Database use in this porject is PostgreSQL.
 
+# Publicly Hosted API Endpoint
+
+This project is publicly hosted on Heroku. The link below is the plubic API Endpoint for this project.
+
+https://school-administrative.herokuapp.com/api/
+
+Kindly import the postman collection for public API endpoint through the link below:
+
+https://www.getpostman.com/collections/3d53e582342043f9e911
+
 # Running in Local Machine
 
 1. Clone the project into local machine
@@ -27,9 +37,9 @@ Follow the steps below for database configuration:
 
 6. Start running the project as the project will automatically create necessary tables in the database "school".
 
-# API endpoints
+## Local API endpoints
 
-Kindly import the postman collection for HTTP request testing purpose.
+Kindly import the postman collection for local API endpoint through the link below:
 
 https://www.getpostman.com/collections/8a2240c70c31517270b5
 
