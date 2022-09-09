@@ -1,9 +1,7 @@
 package com.school.administrativesystem.Controller;
 
-import com.school.administrativesystem.Exception.ResourceNotFoundException;
 import com.school.administrativesystem.Models.Student;
 import com.school.administrativesystem.ServiceInterface.StudentServiceInterface;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,7 +1,6 @@
 package com.school.administrativesystem.Service;
 
 import com.school.administrativesystem.Exception.ErrorResponse;
-import com.school.administrativesystem.Exception.ResourceNotFoundException;
 import com.school.administrativesystem.Models.Student;
 import com.school.administrativesystem.Repo.StudentRepo;
 import com.school.administrativesystem.ServiceInterface.StudentServiceInterface;
